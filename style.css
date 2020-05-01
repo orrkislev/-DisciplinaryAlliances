@@ -1,0 +1,26 @@
+body{
+    background-color: coral;
+    padding: 0;
+    margin:0;
+}
+
+.halfScreen {
+    height:100%;
+    width:50%;
+    position: absolute;
+}
+.left {
+    left:0px;
+    background-color: burlywood;
+    text-align: right;
+}
+.right{
+    right:0px;
+    background-color: beige;
+    text-align: left;
+}
+
+h1{
+    padding: 40% 20px;
+    color: brown;
+}
