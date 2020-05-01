@@ -211,7 +211,7 @@ history"
  Religion
  Rhetoric
  Robotics
- Robotics (outline)
+ Robotics 
  Roman mythology
  Scientific history
  Scientific photography
@@ -287,7 +287,7 @@ Aesthetics
 Affine geometry
 African history
 African religions
-Agent architecture –
+Agent architecture 
 Agnosticism
 Agricultural economics
 Agricultural economics
@@ -363,9 +363,9 @@ Aristotelianism
 Arithmetic
 Arithmetic combinatorics
 Art education
-Artificial Creativity –
+Artificial Creativity 
 Artificial intelligence
-Artificial life –
+Artificial life 
 Artificial neural network
 Artisanal food
 Arts and Crafts movement
@@ -393,19 +393,19 @@ Atomic physics
      physics"
 Audiology
 Automata theory (Formal languages)
-Automated planning and scheduling –
+Automated planning and scheduling 
 Automated reasoning
-Automated reasoning –
-Automatic image annotation –
-Automatic number plate recognition –
-Automatic target recognition –
-Automation –
+Automated reasoning 
+Automatic image annotation 
+Automatic number plate recognition 
+Automatic target recognition 
+Automation 
 Autonomism
 Autoradiography
 Ballistics
 Bariatric surgery
 Beekeeping (Apiculture)
-Behavior-based robotics –
+Behavior-based robotics 
 Behavioral ecology
 Behavioral neuroscience
 Behavioral sociology
@@ -430,7 +430,7 @@ Biogeology
 Biological psychology
 Biological systems engineering
 Biological systems engineering
-Biologically inspired computing –
+Biologically inspired computing 
 Biomechanics
 Biomechanics / Sports biomechanics
 Biomolecular engineering
@@ -475,7 +475,7 @@ Ceramic art
 Cetology
 Chamber music
 Chaos theory
-Chatterbots –
+Chatterbots 
 Chemical biology
 Chemical ecology
 Chemical engineering
@@ -505,7 +505,7 @@ Cleaning
 Climate change policy
 Climatology
 Clinical biochemistry
-Clinical decision support system –
+Clinical decision support system 
 Clinical immunology
 Clinical microbiology
 Clinical neuropsychology
@@ -517,8 +517,8 @@ Cloudscape photography
 Coastal engineering
 Coastal management
 Coding theory
-Cognitive –
-Cognitive architecture –
+Cognitive 
+Cognitive architecture 
 Cognitive biology
 Cognitive psychology
 Cognitive science
@@ -527,7 +527,7 @@ Collection management
 Collection Management Policy
 Collections care
 Collective bargaining
-Combinatorics (outline)
+Combinatorics 
 Comics
 Commercial policy
 Common law
@@ -606,7 +606,7 @@ Conservation psychology
 Conservation science
 Conspiracy theory
 Constitutional law
-Constrained Conditional Models –
+Constrained Conditional Models 
 Construction
 Consumer economics
 Consumer education
@@ -639,7 +639,7 @@ Critical international relations theory
 Critical legal studies
 Critical pedagogy
 Critical sociology
-Critical theory of technology –
+Critical theory of technology 
 Cross-cultural studies
 Cryobiology
 Cryogenics
@@ -656,7 +656,7 @@ Cultural studies
 Culturology
 Curator
 Curriculum and instruction
-Cybernetics –
+Cybernetics 
 Cytogenetics
 Cytohematology
 Cytology
@@ -665,7 +665,7 @@ Dark-field microscopy
 Data  mining
 Data management
 Data mining
-Data mining –
+Data mining 
 Data modeling
 Data storage
 Data structures
@@ -673,7 +673,7 @@ Database
 Database management
 Decision analysis
 Decision science
-Decision support system –
+Decision support system 
 Decision theory
 Decollage
 Decontamination
@@ -696,9 +696,9 @@ Development economics
 Development studies
 Developmental biology
 Developmental psychology
-Developmental robotics –
+Developmental robotics 
 Developmental systems theory
-Diagnosis (artificial intelligence) –
+Diagnosis (artificial intelligence) 
 Diet
 Differential algebra
 Differential psychology
@@ -812,7 +812,7 @@ Environmental science
 Environmental sculpture
 Environmental sociology
 Epidemiology
-Epigenetic robotics –
+Epigenetic robotics 
 Epistemology
 Ergodic theory
 Ergonomics
@@ -837,18 +837,18 @@ Evolution
 Evolutionary ecology
 Evolutionary economics
 Evolutionary psychology
-Evolutionary robotics –
+Evolutionary robotics 
 Evolutionary sociology
 Exercise physiology
 Exoplanetology
 Experimental physics
 Experimental psychology
-Expert system –
+Expert system 
 Expert systems
 Extracellular recording
 Extragalactic astronomy
-Face recognition –
-Facial recognition systems –
+Face recognition 
+Facial recognition systems 
 Family law
 Family psychology
 Family systems theory
@@ -919,22 +919,22 @@ Fuzzy logic
 Galactic astronomy
 Galaxy formation and evolution
 Galois geometry
-Game artificial intelligence –
+Game artificial intelligence 
 Game design
 Game studies 
 Game theory
 Game theory
 Game theory
-Game theory –
+Game theory 
 Gamma-ray astronomy
 Garden design
 Gastroenterology
 Gastronomy
 Gemology
-General game playing –
+General game playing 
 General systems theory
 General topology
-General video game playing –
+General video game playing 
 Genetic ecology
 Geobiology
 Geobiology
@@ -976,14 +976,13 @@ Gravitational wave astronomy
 Green chemistry
 Green economics
 Grid computing
-"Group
-     theory"
+Group theory
 Group psychology
 Growth economics
 Gynaecology
 Hamiltonian mechanics
-Handwriting recognition –
-Handwriting recognition –
+Handwriting recognition 
+Handwriting recognition 
 Health geography
 Health informatics/Clinical informatics
 Health policy
@@ -1018,7 +1017,7 @@ History of animation
 History of ceramic art
 History of comics
 History of computer hardware
-History of computer science (outline)
+History of computer science 
 History of conceptual art
 History of decorative arts
 History of drawing
@@ -1039,8 +1038,7 @@ Homological algebra
 Horticulture
 Housing
 Housing policy
-"Human
-     ecology"
+Human ecology
 Human biology
 Human ecology
 Human ecology
@@ -1048,11 +1046,11 @@ Human resources
 Human resources management
 Human Services
 Human-computer interaction
-Human–computer interaction
+Humancomputer interaction
 Humanistic informatics
 Humanistic psychology
 Humanistic sociology
-Hybrid intelligent system –
+Hybrid intelligent system 
 Hydraulic engineering
 Hydraulics
 Hydrodynamics
@@ -1062,8 +1060,8 @@ Hydrology
 Hydrology
 Ichthyology
 Image processing
-Image processing –
-Image retrieval –
+Image processing 
+Image retrieval 
 Immigration policy
 Immunology
 Imperative programming
@@ -1084,7 +1082,7 @@ Informatics
 Information architecture
 Information architecture
 Information economics
-Information extraction –
+Information extraction 
 Information management
 Information retrieval
 Information retrieval
@@ -1104,9 +1102,9 @@ Insect ecology
 Installation art
 Institutional economics
 Integral geometry
-Intelligent agent –
-Intelligent control –
-Intelligent word recognition –
+Intelligent agent 
+Intelligent control 
+Intelligent word recognition 
 Interaction design
 Intercultural communication
 Interior architecture
@@ -1146,9 +1144,9 @@ Knowledge economy
 Knowledge engineering
 Knowledge management
 Knowledge management
-Knowledge management –
+Knowledge management 
 Knowledge policy
-Knowledge representation –
+Knowledge representation 
 Labor economics
 Labor economics
 Labor history
@@ -1162,14 +1160,13 @@ Landscape ecology
 Landscape ecology
 Langevin dynamics
 Language education
-Language identification –
+Language identification 
 Language policy
-"Laser
-     physics"
+Laser physics
 Lattice theory
 Law and economics
 Law enforcement
-Law enforcement (outline)
+Law enforcement
 Leadership
 Left communism
 Legal education
@@ -1181,8 +1178,7 @@ Lexicology
 Liberalism (international relations)
 Libertarianism
 Library
-"Library
-      classification"
+Library classification
 Library Science
 Limited war
 Limnology
@@ -1193,7 +1189,7 @@ Linguistic typology
 Linnaean taxonomy
 Literary journalism
 Literary theory
-Literary theory –
+Literary theory 
 Literature
 Lithography
 Liturgy
@@ -1207,8 +1203,8 @@ Logical reasoning
 Logistics
 LTI system theory
 Machine learning
-Machine learning –
-Machine translation –
+Machine learning 
+Machine translation 
 Macroeconomics
 Macrosociology
 Magnetism
@@ -1354,10 +1350,10 @@ Nationalism
 Nationalism studies
 Native American religions
 Natural language processing
-Natural language processing –
+Natural language processing 
 Natural language processing (Computational linguistics)
-Natural language understanding –
-Natural language user interface –
+Natural language understanding 
+Natural language user interface 
 Natural resource management
 Natural resource sociology
 Natural theology
@@ -1368,7 +1364,7 @@ Nematology
 Neo-Marxism
 Neoliberalism (international relations)
 Nephrology
-Neural modeling fields –
+Neural modeling fields 
 Neuro-ophthalmology
 Neurochemistry
 Neuroeconomics
@@ -1385,7 +1381,7 @@ New religious movements
 Newtonian dynamics
 Non-Euclidean geometry
 Noncommutative geometry
-Nonlinear control –
+Nonlinear control 
 Nonprofit  administration
 Nontheism
 Nonverbal communication
@@ -1400,117 +1396,115 @@ Numerical simulations
 Nursing
 Nursing education
 Nutrition
-o Aeronautics
-o Aeronautics
-o Aerospace architecture
-o Aerospace manufacturing
-o Aerospace physiology
-o Affect control theory
-o Anthropology of art
-o Anthropology of development
-o Anthropology of institutions
-o Anthropology of media
-o Anthropology of religion
-o Applied anthropology
-o Archaeogenetics
-o Archaeological  Post-processualism
-o Archaeological  Processualism
-o Archaeological Functionalism
-o Archaeological Isotope analysis
-o Archaeological Palynology
-o Assyriology
-o Astronautics
-o Astronautics
-o Biblical archaeology
-o Bioarchaeology
-o Biocybernetics
-o Biomechanical engineering
-o Classical archaeology
-o Cognitive anthropology
-o Cognitive archaeology
-o Computational archaeology
-o Contemporary archaeology
-o Control engineering
-o Control engineering
-o Control systems
-o Control theory
-o Cyborg anthropology
-o Dendrochronology
-o Diachronic linguistics (or Historical linguistics)
-o Digital anthropology
-o Digital culture
-"o Dynamical
-systems"
-o Ecological anthropology
-o Economic anthropology
-o Egyptology
-o Electronics
-o Engineering cybernetics
-o Environmental anthropology
-o Ethnobiology
-o Ethnobotany
-o Ethnography
-o Ethnohistory
-o Ethnolinguistics
-o Ethnology
-o Ethnomuseology
-o Ethnomusicology
-o Etruscology
-o Evolutionary anthropology
-o Feminist anthropology
-o Feminist archaeology
-o Folklore
-o Forensic anthropology
-o Gender archaeology
-o Gene-culture coevolution
-o Geoarchaeology
-o Great ages archaeology
-"o Human
-spaceflight"
-o Human behavioral ecology
-o Human evolution
-o Industrial archaeology
-o Instrumentation engineering
-o Kinship
-o Legal anthropology
-o Management cybernetics
-o Medical anthropology
-o Medical cybernetics
-o Medieval archaeology
-o Microbotics
-o Missiology
-o Molecular anthropology
-o Mythology
-o Near Eastern archaeology
-o Neuroanthropology
-o New cybernetics
-o Nutritional anthropology
-o Paleoanthropology
-o Perceptual control theory
-o Photonics
-o Political anthropology
-o Political economic anthropology
-o Population genetics
-o Post-medieval archaeology
-o Prehistoric archaeology
-o Primatology
-o protohistoric archaeology
-o Psychological anthropology
-o Public anthropology
-o Radiocarbon dating
-o Second-order cybernetics
-o Semiotic anthropology
-o Settlement archaeology
-o Sociocybernetics
-o Sociolinguistics
-o Space corrosion
-o Symbolic anthropology
-o Synchronic linguistics (or Descriptive linguistics)
-o Transpersonal anthropology
-o Unmanned spaceflight
-o Urban anthropology
-o Visual anthropology
-o Zooarchaeology
+Aeronautics
+Aeronautics
+Aerospace architecture
+Aerospace manufacturing
+Aerospace physiology
+Affect control theory
+Anthropology of art
+Anthropology of development
+Anthropology of institutions
+Anthropology of media
+Anthropology of religion
+Applied anthropology
+Archaeogenetics
+Archaeological  Post-processualism
+Archaeological  Processualism
+Archaeological Functionalism
+Archaeological Isotope analysis
+Archaeological Palynology
+Assyriology
+Astronautics
+Astronautics
+Biblical archaeology
+Bioarchaeology
+Biocybernetics
+Biomechanical engineering
+Classical archaeology
+Cognitive anthropology
+Cognitive archaeology
+Computational archaeology
+Contemporary archaeology
+Control engineering
+Control engineering
+Control systems
+Control theory
+Cyborg anthropology
+Dendrochronology
+Diachronic linguistics (or Historical linguistics)
+Digital anthropology
+Digital culture
+Dynamical systems
+Ecological anthropology
+Economic anthropology
+Egyptology
+Electronics
+Engineering cybernetics
+Environmental anthropology
+Ethnobiology
+Ethnobotany
+Ethnography
+Ethnohistory
+Ethnolinguistics
+Ethnology
+Ethnomuseology
+Ethnomusicology
+Etruscology
+Evolutionary anthropology
+Feminist anthropology
+Feminist archaeology
+Folklore
+Forensic anthropology
+Gender archaeology
+Gene-culture coevolution
+Geoarchaeology
+Great ages archaeology
+Human spaceflight
+Human behavioral ecology
+Human evolution
+Industrial archaeology
+Instrumentation engineering
+Kinship
+Legal anthropology
+Management cybernetics
+Medical anthropology
+Medical cybernetics
+Medieval archaeology
+Microbotics
+Missiology
+Molecular anthropology
+Mythology
+Near Eastern archaeology
+Neuroanthropology
+New cybernetics
+Nutritional anthropology
+Paleoanthropology
+Perceptual control theory
+Photonics
+Political anthropology
+Political economic anthropology
+Population genetics
+Post-medieval archaeology
+Prehistoric archaeology
+Primatology
+protohistoric archaeology
+Psychological anthropology
+Public anthropology
+Radiocarbon dating
+Second-order cybernetics
+Semiotic anthropology
+Settlement archaeology
+Sociocybernetics
+Sociolinguistics
+Space corrosion
+Symbolic anthropology
+Synchronic linguistics (or Descriptive linguistics)
+Transpersonal anthropology
+Unmanned spaceflight
+Urban anthropology
+Visual anthropology
+Zooarchaeology
 Object conservation
 Object database
 Object recognition 
@@ -1531,9 +1525,9 @@ Operations research
 Operations research
 Ophthalmology
 Optical astronomy
-Optical character recognition –
-Optical character recognition –
-Optical mark recognition –
+Optical character recognition 
+Optical character recognition 
+Optical mark recognition 
 Optics
 Optimal maintenance
 Optomechanics
@@ -1570,7 +1564,7 @@ Paleontology
 Paralegal studies
 Parallel algorithms
 Parallel computing
-Parapsychology (outline)
+Parapsychology 
 Parasitology
 Participatory economics
 Particle mechanics
@@ -1578,7 +1572,7 @@ Particle physics
 Pastoral theology
 Pathology
 Patriotism
-Pattern recognition –
+Pattern recognition 
 Peace and conflict studies
 Peace and conflict studies
 Peace education
@@ -1644,8 +1638,7 @@ Phycology
 Physical chemistry
 Physical chemistry
 Physical cosmology
-"Physical education/Sports
-      coaching"
+Physical education/Sports coaching
 Physical fitness
 Physical geography
 Physical optics
@@ -1707,10 +1700,9 @@ Probability
 Probability theory
 Problem solving
 Procedural law
-"Process
-     design"
+Process design
 Process engineering
-Process mining –
+Process mining 
 Program semantics
 Programming languages
 Programming paradigms
@@ -1772,7 +1764,7 @@ Quantum mechanics
 Quantum optics
 Quantum physics
 Quantum technology
-Question answering –
+Question answering 
 Radical democracy
 Radio astronomy
 Radiochemistry
@@ -1788,7 +1780,7 @@ Recreation ecology
 Recreation therapy
 Recursion theory
 Recursion theory
-Regression (outline)
+Regression
 Regulation
 Rehabilitation psychology
 Relational database
@@ -1816,10 +1808,9 @@ Rheumatology
 Ring theory
 Risk management and insurance
 Robotics
-Robotics –
+Robotics 
 Sacramental theology
-"Sacred
-     music"
+Sacred music
 Sample Survey
 Sampling theory
 Scenography
@@ -1839,7 +1830,7 @@ Secondary education
 Security policy
 Sedimentology
 Sedimentology
-Semantic translation –
+Semantic translation 
 Semantic Web
 Semantics
 Set theory
@@ -1848,7 +1839,7 @@ Sex education
 Sexology
 Sexology
 Shinto
-Silent speech interface –
+Silent speech interface 
 Silviculture
 Simulation
 Small Solar System bodies
@@ -1923,8 +1914,7 @@ Sociology of music
 Sociology of natural resources
 Sociology of organizations
 Sociology of punishment
-"Sociology of race and ethnic
-     relations"
+Sociology of race and ethnic relations
 Sociology of religion
 Sociology of risk
 Sociology of science
@@ -1958,8 +1948,7 @@ Solid-state chemistry
 Sonochemistry
 Sound and music computing
 Sovereignty
-"Space
-      policy"
+Space policy
 Space archaeology
 Space exploration
 Space industry
@@ -1973,14 +1962,14 @@ Space-based radar
 Space-based solar power
 Spacecraft design
 Spacecraft propulsion
-Speaker recognition –
+Speaker recognition 
 Special education
 Speciesism
 Spectroscopy
 Speech and language pathology
-Speech generating device –
-Speech recognition –
-Speech recognition –
+Speech generating device 
+Speech recognition 
+Speech recognition 
 Speleology
 Spintronics
 Spirituality
@@ -1998,7 +1987,7 @@ Statistical mechanics
 Statistical mechanics
 Statistical modelling
 Statistical physics
-Statistical semantics –
+Statistical semantics 
 Statistical theory
 Steganography
 Stellar astronomy
@@ -2012,7 +2001,7 @@ Stochastic process
 Stochastic processes
 Storytelling
 Strategic geography
-Strategic planning –
+Strategic planning 
 Strategic studies
 Strategic studies
 Strategy
@@ -2073,8 +2062,7 @@ Television studies
 Teratology
 Terminology science
 Text mining 
-"Textile
-     design"
+Textile design
 The Frankfurt School
 Theism
 Theoretical astronomy
@@ -2093,7 +2081,7 @@ Thermodynamics
 Thing  theory
 Third-Worldism
 Time  series
-Tort law (outline)
+Tort law 
 Total war
 Tourism geography
 Toxicology
@@ -2124,12 +2112,11 @@ Usage
 User experience design
 User experience evaluation
 User interface design
-"UV
-      astronomy"
+UV astronomy
 Vaccination policy
 Value theory
 Vehicle dynamics
-Vehicle infrastructure integration –
+Vehicle infrastructure integration 
 Veterinary medicine
 Victimology
 Video art
